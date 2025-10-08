@@ -74,6 +74,12 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL**
 
-**Result:**
+**Result:**<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/5f3e1c2d-0082-4581-ae23-1daae27dcf95" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/0d372c41-944a-4f80-a4a6-00ddf085d907" />
+
+
+
+
+
 
 
